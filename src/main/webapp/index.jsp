@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>Welcome to  Devops traning 2028 </h1>
-<p> Welcome to  Devops traning for 2027 oct Evening Batch.</p>
+<p> Welcome to  Devops traning for 2028 oct Evening Batch.</p>
 </body>
 </html>
 
