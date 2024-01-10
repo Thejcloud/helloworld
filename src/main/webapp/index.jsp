@@ -3,16 +3,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome to aws traning  2025 </title>
+<title> Welcome  to devops   </title>
 <style>
   body {
-    background-color: green;
+    background-color: blue;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to  Devops traning 2025 </h1>
-<p> Welcome to  aws traning for 2025 oct Evening Batch.</p>
+<h1>Welcome  to devops </h1>
+<p>Welcome  to devops.</p>
 </body>
 </html>
-
