@@ -6,7 +6,7 @@
 <title> Welcome to aws traning  2025 </title>
 <style>
   body {
-    background-color: blue;
+    background-color: yellow;
   }
 </style>
 </head>
