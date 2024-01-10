@@ -15,4 +15,3 @@
 <p>Welcome  to devops.</p>
 </body>
 </html>
-
